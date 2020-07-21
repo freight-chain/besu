@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Specification-Title: besu-storage-redis-plugin
+Specification-Version: unspecified
+Implementation-Title: besu-storage-redis-plugin
+Implementation-Version: unspecified
+
